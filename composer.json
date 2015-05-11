@@ -18,6 +18,7 @@
         }
     ],
     "require": {
+        "php": ">=5.4",
         "yiisoft/yii2": "*",
         "guzzlehttp/guzzle": "4.*"
     },
