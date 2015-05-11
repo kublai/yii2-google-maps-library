@@ -4,6 +4,7 @@
     "keywords": ["yii", "extension", "library", "google", "maps"],
     "type": "yii-extension",
     "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Bytebox S.L.",
